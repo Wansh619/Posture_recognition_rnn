@@ -1,4 +1,2 @@
-<video width="600" controls>
-  <source src="streamlit/final_video.mp4" type="video/mp4">
-</video>
-POSTURE RECOGNITION USING RNN
+<a href="https://github.com/Wansh619/Posture_recognition_rnn/blob/main/final_video.mp4">Webpage</a>
+
